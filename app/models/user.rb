@@ -5,4 +5,4 @@ class User < ApplicationRecord
     validates :password, presence: true
 end
 
-ActionController::Parameters.permit_all_parameters = true
+# ActionController::Parameters.permit_all_parameters = true
