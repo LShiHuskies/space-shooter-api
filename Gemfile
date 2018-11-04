@@ -69,3 +69,5 @@ gem 'rspec'
 gem 'rspec-expectations'
 require 'uri'
 gem 'bootstrap'
+
+gem "loofah", ">= 2.2.3"
